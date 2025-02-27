@@ -1,0 +1,26 @@
+.btn{
+    border-radius: 4px;
+        padding: 16px 32px;
+        width: 169px;
+        height: 56px;
+        background: #4d5ae5;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+        
+
+}
+.wrapper{
+    width: 1440px;
+        height: 600px;
+        
+        width: 100%;
+        margin-top: 72px;
+        text-align: center;
+        position: relative;
+            justify-content: space-between;}
+        
+
+
+.bullet{
+    list-style-type: none;
+}
